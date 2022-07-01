@@ -1,0 +1,67 @@
+[33mcommit c3849b9e2e1dfbfc23e4cdf439ee0ab864305c3b[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-1[m[33m)[m
+Merge: dbb1bda 7529a91
+Author: mohsen ansari <mohsen.ansari.bim@gmail.com>
+Date:   Fri Jul 1 22:09:22 2022 +0430
+
+    this is after i resolved conflicts
+
+[33mcommit dbb1bda44631e9a0609a0cddfc8ccfe0e7057d4b[m
+Author: mohsen ansari <mohsen.ansari.bim@gmail.com>
+Date:   Fri Jul 1 21:45:47 2022 +0430
+
+    modified readme.md file locally
+
+[33mcommit 7529a911383068be91f876209de3a02087b2ddc5[m[33m ([m[1;31morigin/feature-1[m[33m)[m
+Author: Mohsen Ansari <108481461+mo-sari@users.noreply.github.com>
+Date:   Fri Jul 1 21:43:49 2022 +0430
+
+    Update README.md
+
+[33mcommit 6d4c7b04d60074024634d5d833f539caf151690b[m
+Merge: f1e5ac6 3bfb082
+Author: mohsen ansari <mohsen.ansari.bim@gmail.com>
+Date:   Fri Jul 1 20:38:43 2022 +0430
+
+    Merge branch 'feature-1' of https://github.com/mo-sari/my-first-github-repository into feature-1
+
+[33mcommit 3bfb082d2a60ccacc941ee1f2a219de4a25a176f[m
+Author: Mohsen Ansari <108481461+mo-sari@users.noreply.github.com>
+Date:   Fri Jul 1 04:23:57 2022 +0430
+
+    Create one-more-file.txt
+
+[33mcommit f1e5ac635b385255f057e387683fa92f4a4391ea[m
+Author: mohsen ansari <mohsen.ansari.bim@gmail.com>
+Date:   Fri Jul 1 04:22:56 2022 +0430
+
+    modified another-file.txt localy
+
+[33mcommit 6afa852e1a7aa8d5e06ef4248a98c0c96c27d177[m
+Author: Mohsen Ansari <108481461+mo-sari@users.noreply.github.com>
+Date:   Fri Jul 1 04:04:36 2022 +0430
+
+    Create another-file.txt
+
+[33mcommit 5750d5ffcd982c5cc3d41fe434ad458b8c48e0a1[m
+Author: Mohsen Ansari <108481461+mo-sari@users.noreply.github.com>
+Date:   Thu Jun 30 22:08:17 2022 +0430
+
+    file list.txt was created in the feature-1 branch
+
+[33mcommit 4b88b65c09f4b6676f0f8c71fe2a02b33786a7dd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mohsen Ansari <108481461+mo-sari@users.noreply.github.com>
+Date:   Thu Jun 30 21:58:54 2022 +0430
+
+    Create hello-github.txt
+
+[33mcommit 1321663988f88b1e3afd948b3400bb19dac5fe74[m
+Author: Mohsen Ansari <108481461+mo-sari@users.noreply.github.com>
+Date:   Thu Jun 30 20:43:42 2022 +0430
+
+    Update README.md
+
+[33mcommit 62b7ee77dec47d958ccd47c9a037189f9247d63c[m
+Author: Mohsen Ansari <108481461+mo-sari@users.noreply.github.com>
+Date:   Thu Jun 30 20:38:01 2022 +0430
+
+    Initial commit
